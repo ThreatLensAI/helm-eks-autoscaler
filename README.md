@@ -1,4 +1,4 @@
-# CSYE7125 Helm charts for EKS Cluster Autoscaler
+# Helm charts for EKS Cluster Autoscaler
 
 This repository contains the Helm charts for deploying the Cluster Autoscaler on EKS.
 
